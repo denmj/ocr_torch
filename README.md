@@ -1,1 +1,1 @@
-# orc_torch
+# ocr_torch
